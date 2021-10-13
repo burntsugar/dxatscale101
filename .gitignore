@@ -37,3 +37,7 @@ $RECYCLE.BIN/
 # VS Code project settings
 .vscode/
 .vim-force.com/
+
+temp
+temp*
+ignore*
